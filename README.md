@@ -1,6 +1,6 @@
 # 🔬 Zotero-Paper-Daily (Extended)
 
-> 基于 [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) 扩展，**新增 PubMed、bioRxiv、medRxiv** 数据源支持，特别适合**生物医学/皮肤科**研究者。
+> 基于 [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) 扩展，**新增 PubMed、bioRxiv、medRxiv** 数据源支持，特别适合**生物医学**研究者。
 
 ## ✨ 新增功能
 
@@ -204,7 +204,7 @@ A: 不必须，但推荐申请。没有 Key 限制 3 次/秒，有 Key 提升到
 
 ---
 
-## 🙏 致谢
+##  REF
 
 - [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - 原始项目
 - [NCBI E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/) - PubMed API
